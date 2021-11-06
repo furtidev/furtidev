@@ -1,2 +1,1 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/721274417015160893
-                            )](https://discord.com/users/721274417015160893)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isferhossain&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
