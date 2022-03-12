@@ -16,13 +16,6 @@
   <a href="https://github.com/isferhossain?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/isferhossain?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-## 📘 My top open source projects
-
-<p align="left">
-  <a href="https://github.com/isferhossain/HonourInWatch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=isferhossain&repo=HonourInWatch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/isferhossain/DeadFishPlusPLus"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=isferhossain&repo=DeadFishPlusPLus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/isferhossain/MinePHP"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=isferhossain&repo=MinePHP&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
