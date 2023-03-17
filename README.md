@@ -1,1 +1,1 @@
-![i don understan](https://user-images.githubusercontent.com/44488750/201884494-ce93ef63-98cb-4204-8cc7-1a5a3eb64650.png)
+![github_readme](https://user-images.githubusercontent.com/44488750/225930657-14a4f320-3d83-4837-8499-6c7c56b87521.png)
