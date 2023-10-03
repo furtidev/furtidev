@@ -1,1 +1,8 @@
-[under construction]
+<img align="left" src="https://github.com/furtidev/furtidev/assets/44488750/1ea50f79-5dab-4492-9db6-1d2a804e5a62" width="15%" height="15%">
+
+### Welcome!
+
+I like backend programming and developing CLI tools. I use Go, Python & [Odin](https://odin-lang.org) regularly. I also make games with Godot Engine. 
+
+~ [my site](https://furtidev.github.io)
+/ furtidev@poto.cafe
