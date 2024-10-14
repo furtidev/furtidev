@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-I like backend programming and developing CLI tools. I use Go, Python & [Odin](https://odin-lang.org) regularly. I also make games with Godot Engine. 
+I like developing apps, cli tools, backends. I like using Go, Python, Rust & [Odin](https://odin-lang.org). I also make games with Godot Engine. 
 
 ~ [my site](https://furtidev.github.io)
 / furtidev@poto.cafe
